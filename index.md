@@ -1,8 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-# This is an exercise on github pages.
-- wawu wawu wawu ~ ~ ~
-- momeries of ...
+### This is an exercise on github pages.
+wawu wawu wawu ~ ~ ~
 
-- [ ] things to do?
